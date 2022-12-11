@@ -8,6 +8,7 @@ int main()
         sum = sum + i;
         ++i;
     }
+    int i, j, k;
     std::cout << "the sum is " << sum << std::endl;
     system("pause");
     return 0;
